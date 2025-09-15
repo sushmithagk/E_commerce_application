@@ -1,1 +1,18 @@
 This is the first file pushing to the github from local cloned repository using master branch.
+
+To initialize the git in the local repo:
+
+    git init 
+    git config --global user.email"user@gmail.com"
+    git config --global user.name"username"
+
+    git clone repourl
+    
+        go to cloned folder cd foldername 
+
+            git branch -- shows the number of branches 
+            git branch master -- master branch is created 
+            git checkout master -- switched to the master brach
+            
+
+
