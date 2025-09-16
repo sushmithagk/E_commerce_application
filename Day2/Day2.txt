@@ -1,0 +1,5 @@
+cloning the repo using VS code 
+
+created the csdbranch and modified day2 file 
+
+modified day2 file using csdnewbranch 
